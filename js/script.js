@@ -102,7 +102,7 @@ marks.pop(85);
 console.log(marks);*/
 
 /*loop array//
-var marks=[12,12,13,14,15,16,17,18];
+var marks=["mango","banana","skthi"];
 var total=0;
 var avg;
 for (let i=0; i<marks.length; i++){
@@ -111,7 +111,7 @@ for (let i=0; i<marks.length; i++){
 avg=total/marks.length;
 console.log(avg);*/
 
-var user=["one","two","three","four",]
+var user=["mango","bannana","grape","apple",]
 for (let i=0; i<user.length; i++){
 	console.log(i);
 }
