@@ -110,8 +110,60 @@ for (let i=0; i<marks.length; i++){
 }
 avg=total/marks.length;
 console.log(avg);*/
-
+/** 
 var user=["mango","bannana","grape","apple",]
 for (let i=0; i<user.length; i++){
 	console.log(i);
-}
+}*/
+
+// task //
+// push method//
+/*
+var names=["mugesh","mani","simeon","nagaraj","sakthi"]
+names.push(12);
+names.push(13);
+names.push(14);
+names.push(15);
+names.push(16);
+console.log(names);*/
+
+//pop method//
+/*
+var animals=["lion","tiger","dog","elephant","monkey"]
+animals.pop();
+console.log(animals);*/
+
+//shift method//
+/*
+var myfish=["angel","gold","shark","tigerfish","cuppish"]
+myfish.shift();
+myfish.shift();
+console.log(myfish);*/
+
+//slice method//
+/*
+var subject=["tamil","english","maths","science","social"]
+subject.slice();
+console.log(subject);*/
+
+//splice method//
+/*
+var marks=[50,60,70,80,90]
+marks.splice();
+console.log(marks);*/
+
+//to string method//
+/*
+var software=['html','js','css','bootstrap','reactjs']
+software.toString();
+console.log(software);*/
+
+//unshift method//
+/*
+var software=['html','js','css','bootstrap','reactjs']
+software.unshift(30);
+software.unshift(40);
+software.unshift(50);
+software.unshift(70);
+software.unshift(90);
+console.log(software);*/
