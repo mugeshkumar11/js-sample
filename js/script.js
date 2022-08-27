@@ -167,7 +167,33 @@ software.unshift(50);
 software.unshift(70);
 software.unshift(90);
 console.log(software);*/
+/*
+let a=10;
+console.log(a);
+*/
+/*
+let a=10;
+let b='mugesh';
+console.log(a+=b);
+*/
+/*
+let car;
+console.log(car);
+*/
+/*
+let bus="";
+console.log(bus);
+*/
+/*
+let a=10;
+let w=12;
+console.log(a<w);
+*/
+/*
+let b="sakthi";
+let c=10;
+console.log(b/=c);
+*/
 
-//
-
-
+var data=[1,2,3,4,5,6,7,8,'9'];
+console.log(data);
